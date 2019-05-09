@@ -71,6 +71,6 @@ qi
 
 ## 参考资料
 
-- [IA_Templates/优雅的协作案例.md at master · tokong/IA_Templates](https://github.com/tokong/IA_Templates/blob/master/Reference/%E4%BC%98%E9%9B%85%E7%9A%84%E5%8D%8F%E4%BD%9C%E6%A1%88%E4%BE%8B.md)
-- [IA_Templates/会议纪要模板.md at master · tokong/IA_Templates](https://github.com/tokong/IA_Templates/blob/master/Reference/%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81%E6%A8%A1%E6%9D%BF.md)
+- [优雅的协作案例](https://github.com/tokong/IA_Templates/blob/master/Reference/%E4%BC%98%E9%9B%85%E7%9A%84%E5%8D%8F%E4%BD%9C%E6%A1%88%E4%BE%8B.md)
+- [会议纪要模板](https://github.com/tokong/IA_Templates/blob/master/Reference/%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81%E6%A8%A1%E6%9D%BF.md)
 - [如何使用github](https://github.com/OpenMindClub/Share/wiki)
